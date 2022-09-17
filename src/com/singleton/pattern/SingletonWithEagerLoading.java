@@ -1,4 +1,4 @@
-package com.basic.singleton;
+package com.singleton.pattern;
 
 public class SingletonWithEagerLoading {
 	private static final SingletonWithEagerLoading object = new SingletonWithEagerLoading();
